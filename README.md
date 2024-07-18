@@ -2,7 +2,8 @@
 This repository contains a C++ program for a School Management System. The program allows for the management of student records, including updating student information.
 
 Features
-🔄 Update Student Information: The program provides functionality to update existing student records by entering the student's roll number.
+
+🔄 Update Student Information: The program provides functionality to update existing student records by entering the student's roll number
 📂 File Handling: Uses file I/O operations to read and write student data from/to student.txt.
 
 Getting Started
